@@ -5,7 +5,7 @@ Systems Administrator and IT Operations Analyst based in Pittsburgh, PA. I keep 
 ![Linux](https://img.shields.io/badge/Linux-0E1726?style=flat-square&logo=linux&logoColor=2DD4BF)
 ![Docker](https://img.shields.io/badge/Docker-0E1726?style=flat-square&logo=docker&logoColor=2DD4BF)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0E1726?style=flat-square&logo=homeassistant&logoColor=2DD4BF)
-![Azure]([https://img.shields.io/badge/azure-devops/style=flat-square&logo=microsoft&logoColor=2DD4BF)
+![Azure](https://img.shields.io/badge/Azure-0E1726?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0E1726?style=flat-square&logo=githubactions&logoColor=2DD4BF)
 ![Tailscale](https://img.shields.io/badge/Tailscale-0E1726?style=flat-square&logo=tailscale&logoColor=2DD4BF)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-0E1726?style=flat-square&logo=pihole&logoColor=2DD4BF)
