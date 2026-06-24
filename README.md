@@ -23,6 +23,14 @@ Most of my professional work happens behind the scenes: keeping critical infrast
 
 Comfortable reading Python; I automate with containers, shell, and CI/CD.
 
+### Certifications
+
+<a href="https://learn.microsoft.com/en-us/users/philipwingfield/credentials/25376c5ad52046cc">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure AI Fundamentals" width="96" />
+</a>
+
+Microsoft Certified: Azure AI Fundamentals — [verify](https://learn.microsoft.com/en-us/users/philipwingfield/credentials/25376c5ad52046cc)
+
 ### Featured projects
 
 - **[haos-apps](https://github.com/pewingfield/haos-apps):** Third-party tools (LubeLogger, Bambuddy) packaged as native Home Assistant OS apps with ingress, persistent storage, and Supervisor integration.
